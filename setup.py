@@ -47,7 +47,7 @@ def main():
             'alembic>=0.7.6',
             'click>=3.3',
             'cryptography>=1.4',
-            'psycopg2>=2.6.1',
+            'psycopg2_binary>=2.6.1',
             'six>=1.9.0',
             'notebook>=5.0',
         ],
